@@ -1,2 +1,2 @@
 # Currency-Convertor_1
-Simple python terminal Currency Convertor
+Simple python & QT based GUI Currency Convertor
